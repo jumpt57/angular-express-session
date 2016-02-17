@@ -1,0 +1,30 @@
+{
+  "name": "assets",
+  "authors": [
+    "Julien <julien.maupetit@epsi.fr>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "~1.4.8",
+    "angular-bootstrap": "~0.14.3",
+    "angular-css": "~1.0.7",
+    "angular-resource": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "angular": "~1.4.8",
+    "bootstrap": "~3.3.6",
+    "ng-breadcrumbs": "~0.4.1",
+    "angular-cookies": "~1.4.8",
+    "Materialize": "materialize#~0.97.5"
+  }
+}
