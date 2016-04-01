@@ -1,4 +1,4 @@
-angular.module('accountingApp').run(function($rootScope, $cookies, $location){
+angular.module('app').run(function($rootScope, $cookies, $location){
     $rootScope.$on('$routeChangeStart', function(event, next, current){
 
         if($cookies.get('uid') == null){

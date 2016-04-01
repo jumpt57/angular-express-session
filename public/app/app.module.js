@@ -1,2 +1,1 @@
-angular.module('accountingApp', ['ngRoute', 'ngResource', 'ng-breadcrumbs', 'ngAnimate', 'door3.css', 'ngCookies']);
-/*, 'ui.bootstrap'*/
+angular.module('app', ['ngRoute', 'ngResource', 'ng-breadcrumbs', 'ngAnimate', 'door3.css', 'ngCookies']);

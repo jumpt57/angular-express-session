@@ -1,4 +1,4 @@
-angular.module('accountingApp').config(function($routeProvider, $locationProvider){
+angular.module('app').config(function($routeProvider, $locationProvider){
 
     $routeProvider.when('/home', {
         templateUrl: 'app/components/home/home.vw.html',

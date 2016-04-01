@@ -1,4 +1,4 @@
-angular.module('accountingApp').directive('ngFooter', function(){
+angular.module('app').directive('ngFooter', function(){
     return {
         restrict: 'E',
         replace: true,

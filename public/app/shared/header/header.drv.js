@@ -1,4 +1,4 @@
-angular.module('accountingApp').directive('ngHeader', ['$location', '$anchorScroll', function($location, $anchorScroll){
+angular.module('app').directive('ngHeader', ['$location', '$anchorScroll', function($location, $anchorScroll){
     return {
         restrict: 'E',
         replace: true,
